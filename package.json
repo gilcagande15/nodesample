@@ -2,7 +2,7 @@
   "name": "nodesample",
   "version": "1.0.0",
   "description": "",
-  "main": "myfirst.js",
+  "main": "",
   "scripts": {
     "server": "nodemon server.js"
   },
@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "handlebars": "^4.5.0"
+  },
+  "engines": {
+    "node":">=10.0.0"
   }
 }
